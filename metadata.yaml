@@ -1,0 +1,32 @@
+_repo: King-of-RanleighA-School-Story_42862
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Prater, Ernest
+    gutenberg_agent_id: '32142'
+    url: http://www.gutenberg.org/2009/agents/32142
+covers:
+- cover_type: archival
+  image_path: 42862-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2013-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- England -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: 'King of Ranleigh: A School Story'
+url: http://www.gutenberg.org/ebooks/42862
