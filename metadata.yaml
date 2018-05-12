@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42862#King-of-RanleighA-School-Story
 gutenberg_issued: '2013-06-02'
 gutenberg_type: Text
 identifiers:
